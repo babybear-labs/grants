@@ -12,6 +12,7 @@ Lists active grants.
 - https://arbitrum.foundation/grants
 - https://esp.ethereum.foundation
 - https://esp.ethereum.foundation/applicants/small-grants
+- https://github.com/Hyle-org/hyle/blob/main/GRANTS.md
 
 
 ## Resoruces
