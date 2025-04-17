@@ -13,6 +13,7 @@ Lists active grants.
 - https://esp.ethereum.foundation
 - https://esp.ethereum.foundation/applicants/small-grants
 - https://github.com/Hyle-org/hyle/blob/main/GRANTS.md
+- https://noirhack.com (**Deadline** 20 April)
 
 
 ## Resoruces
